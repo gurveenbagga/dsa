@@ -1,3 +1,6 @@
+//to understand how memory is allocated and result returned in recursion
+//Reference - https://www.geeksforgeeks.org/introduction-to-recursion-data-structure-and-algorithm-tutorials/
+
 // "static void main" must be defined in a public class.
 public class Main {
     public static void main(String[] args) {
@@ -16,4 +19,4 @@ public class Main {
         }
     }
 }
-//Refernce - https://www.geeksforgeeks.org/introduction-to-recursion-data-structure-and-algorithm-tutorials/ - to understand how memory is allocated and result returned in recursion;
+
